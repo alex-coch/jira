@@ -1,0 +1,2 @@
+Nex-Gen Projects
+https://support.atlassian.com/jira-software-cloud/docs/next-gen-permissions/
