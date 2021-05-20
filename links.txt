@@ -5,3 +5,4 @@ https://www.atlassian.com/software/jira/whats-new/core-experiences
 Cloud Editor
 https://support.atlassian.com/confluence-cloud/docs/confluence-cloud-editor-roadmap/
 https://support.atlassian.com/confluence-cloud/docs/convert-pages-to-the-new-editor/
+https://support.atlassian.com/confluence-cloud/docs/what-are-macros/
